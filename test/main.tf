@@ -39,7 +39,6 @@ variable "container_group_name" {
   description = "aci name"
   default     = "nginx"
 }
-
 variable "container_group_dns" {
   type        = string
   description = "aci name"
