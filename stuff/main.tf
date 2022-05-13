@@ -6,7 +6,7 @@ terraform {
     resource_group_name  = "terraform"
     storage_account_name = "tfstate111222333444"
     container_name       = "tfstatedevops"
-    key                  = "terraform.tfstate"
+    key                  = "tfstatedevops.tfstate"
   }
 }
 variable "location1" {
