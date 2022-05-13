@@ -1,6 +1,6 @@
 ## GitHub Action to deploy Terraform into Azure
 name: 'Terraform-Master'
- 
+
 on:
   push:
     branches:
